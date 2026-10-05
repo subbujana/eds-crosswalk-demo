@@ -11,6 +11,9 @@
   order: 1;
 }
 
+.columns {
+  border: 5px solid red !important;
+}
 .columns > div > .columns-img-col {
   order: 0;
 }
